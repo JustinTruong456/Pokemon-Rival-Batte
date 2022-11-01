@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 import java.util.Random;
-public class Driver {
+public class Test {
 //https://manytools.org/hacker-tools/convert-images-to-ascii-art/
 
 	public static void main(String[] args) {
